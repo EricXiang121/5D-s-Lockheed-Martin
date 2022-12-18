@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BG
+    uniqueID: 2309692719
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Car
+    uniqueID: 2418747971
     locked: 0
